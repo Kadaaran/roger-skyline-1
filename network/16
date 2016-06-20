@@ -1,0 +1,5 @@
+Pas possible de sudo. Du coup ca serait un truc dans le genre :
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+62.210.207.183 intra.42.fr
