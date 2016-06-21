@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lSh
+ls -lS $1
